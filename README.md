@@ -99,6 +99,16 @@
   showSlide();
   setInterval(showSlide, 6500);
 </script>
+<!-- IMAGEN 1 -->
+<div class="slide" style="background-image:url('imagen1.jpg')">
 
+<!-- IMAGEN 2 -->
+<div class="slide" style="background-image:url('imagen2.jpg')">
+
+<!-- IMAGEN 3 -->
+<div class="slide" style="background-image:url('imagen3.jpg')">
+
+<!-- IMAGEN 4 (FINAL) -->
+<div class="slide" style="background-image:url('imagen4.jpg')">
 </body>
 </html>
